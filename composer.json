@@ -1,5 +1,5 @@
 {
-	"name":"fritzmg/contao-sharebuttons",
+	"name":"fritzmg/contao-jquery-selectbox",
 	"description":"Contao integration for the jQuery selectBox plugin by marcj",
 	"keywords":["contao", "jquery", "form", "select", "extension"],
 	"type":"contao-module",
