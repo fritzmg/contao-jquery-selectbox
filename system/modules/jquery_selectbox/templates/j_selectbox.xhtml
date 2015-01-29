@@ -1,0 +1,17 @@
+<?php
+
+$GLOBALS['TL_CSS'][] = 'system/modules/jquery_selectbox/assets/jquery.selectBox.css||static';
+$GLOBALS['TL_JAVASCRIPT'][] = 'system/modules/jquery_selectbox/assets/jquery.selectBox.min.js|static';
+
+?>
+
+<script>
+(function($){
+  "use strict";
+  $(document).ready(function($){
+    $('select').selectBox({
+      // put your custom configuration here
+    });
+  });
+})(jQuery);
+</script>
