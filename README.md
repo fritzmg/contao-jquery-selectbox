@@ -1,4 +1,4 @@
-[![](https://img.shields.io/maintenance/yes/2017.svg)](https://github.com/fritzmg/contao-jquery-selectbox)
+[![](https://img.shields.io/maintenance/yes/2015.svg)](https://github.com/fritzmg/contao-jquery-selectbox)
 [![](https://img.shields.io/packagist/v/fritzmg/contao-jquery-selectbox.svg)](https://packagist.org/packages/fritzmg/contao-jquery-selectbox)
 [![](https://img.shields.io/packagist/dt/fritzmg/contao-jquery-selectbox.svg)](https://packagist.org/packages/fritzmg/contao-jquery-selectbox)
 
